@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @zty314
 - 👀 I’m interested in java 
-- 🌱 I’m currently learning redis
+- csdn blog:https://blog.csdn.net/clapAlong?type=blog
+
 
 <!---
 zty314/zty314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
